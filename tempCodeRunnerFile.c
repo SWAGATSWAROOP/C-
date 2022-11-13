@@ -1,0 +1,1 @@
+printf("Enter the elements of the array(Sorted): \n");
