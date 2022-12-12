@@ -9,12 +9,11 @@ void bubblesort(int arr[],int n){
                 arr[i]=arr[i+1];
                 arr[i+1]=t;
             }
-         for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){
         cout<<arr[i]<<" ";
         }
         cout<<endl;
         }
-        
         counter++;
     }
     cout<<"The Sorted list is:";
